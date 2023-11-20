@@ -1,0 +1,2 @@
+# js
+hatish js setup
